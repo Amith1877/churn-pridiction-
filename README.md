@@ -1,1 +1,1 @@
-# churn-pridiction-
+# churn-prediction-
